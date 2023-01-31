@@ -25,7 +25,7 @@ Each containing the collected user study data for time/error rates, as well as S
 - ParticipationS2: ser already participated in study 2
 - #studyParticipations: ParticipationS1 + ParticipationS2
 
-####SSQ
+#### SSQ
 - Person: Anonymous identifier for each participant
 - Trial: identifier for each block after the SSQ was filled out: 0 before the start of the study; 1 after the first condition, 2 after the second condition; 3 after the third condition (study 2+3) // last condition (study1); 4 after the last condition (study 2+3)
 - Condition: the tested condition of the last block in the study before filling out this SSQ (0 if baseline before actual study start)
@@ -35,7 +35,7 @@ Each containing the collected user study data for time/error rates, as well as S
 - DisorientationScore: disorientation score
 - TotalScore: factorised score
 
-####NasaTLX
+#### NasaTLX
 - Person: Anonymous identifier for each participant
 - Trial: identifier for each block after the NasaTLX was filled out: 1 after the first condition, 2 after the second condition; 3 after the third condition (study 2+3) // last condition (study1); 4 after the last condition (study 2+3)
 - Condition: the tested condition of the last block in the study before filling out this NasaTLX (0 if baseline before actual study start)
